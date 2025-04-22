@@ -53,5 +53,3 @@ A growth mindset empowers you to embrace challenges, learn from criticism, and p
 Made with ❤️ using [Streamlit](https://streamlit.io/) and inspired by the idea of continuous personal development.
 
 ---
-
-Let me know if you'd like a version with Markdown formatting specifically for GitHub or a PDF-style format!
